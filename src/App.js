@@ -62,7 +62,7 @@ const App = () => {
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" color="primary">View</Button>
+                  <Button size="medium" color="primary">View</Button>
                   <Button size="small" color="primary">Edit</Button>
                 </CardActions>
               </Card>
